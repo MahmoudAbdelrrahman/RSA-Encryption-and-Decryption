@@ -1,6 +1,3 @@
-//Mahmoud Mohamed Amr 20176027
-//Hady Raed 20175019
-
 import java.util.Random;
 import java.math.BigInteger;
 import java.util.Scanner;
